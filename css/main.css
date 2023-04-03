@@ -14,7 +14,7 @@ nav{
     background-color: rgb(44, 44, 44);
     color: white;
     margin-bottom: 80px;
-    padding-top: 25px;
+    padding-top: 17px;
 }
 
 li{
@@ -27,17 +27,17 @@ li{
     height: 60px;
     float: right;
     margin-right: 30px;
-    padding-top: 3px;
+    padding-top: 9px;
 }
 
 .nav-head{
-    width: 500px;
+    width: 700px;
     margin: 0;
     float: left;
     padding-left: 150px;
 }
 
-.nav-head h3{
+.nav-head h1{
     margin: 0;
 }
 
@@ -103,11 +103,16 @@ h1{
     padding-top: 15px;
 }
 
+.overlay h1{
+    font-weight: 400;
+}
+
 .line{
     height: 3px;
     width: 15%;
     background-color: white;
     margin-left: 42.5%;
+    margin-bottom: 9px;
 }
 
 p{
